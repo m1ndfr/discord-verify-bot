@@ -2,7 +2,7 @@
 ---
 ## Features ; </br>
 - **Using Embed**
-- **Using Slash Command**
+- **Using Slash Command (For setup embed)**
 - **Ephemeral Feedback Message**
 - **Interactive Verification Button**
 
