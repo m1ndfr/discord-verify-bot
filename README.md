@@ -13,4 +13,5 @@
 ![image img](/image.png)
 - **Run index.py in Terminal / CMD (py index.py)**
 ---
+# ANY ERROR ? CONTACT ME ON DISCORD (smth.oppenheimer) 
 # DON'T FORGET TO STAR THIS REPOS 💖
