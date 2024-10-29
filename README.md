@@ -2,7 +2,7 @@
 ---
 ## Features ; </br>
 - **Using Embed**
-- **Using Slash Command (For setup embed)**
+- **Using Command (For setup embed)**
 - **Ephemeral Feedback Message**
 - **Interactive Verification Button**</br>
 
@@ -13,7 +13,7 @@
 - **Make sure your bot role is above the member role**
 ![image img](/images/image.png)
 - **Run index.py in Terminal / CMD (py index.py)**
-- **Use /verify_setup**</br>
+- **Use !verify_setup**</br>
 
 ## Contact ;
 - **Any Error ? Contact me on discord (smth.oppenheimer)**
