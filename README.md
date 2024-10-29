@@ -4,8 +4,9 @@
 - **Using Embed**
 - **Using Slash Command (For setup embed)**
 - **Ephemeral Feedback Message**
-- **Interactive Verification Button**
+- **Interactive Verification Button**</br>
 
+## Description ;
 > Make sure your bot role is above the member role 
 ![image img](/image.png)
 
