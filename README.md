@@ -1,7 +1,7 @@
 # Verify Discord Bot
 ---
 ## Features ; </br>
-- **Using Embed System**
+- **Using Embed**
 - **Using Slash Command**
 - **Ephemeral Feedback Message**
 - **Interactive Verification Button**
