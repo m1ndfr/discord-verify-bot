@@ -8,7 +8,8 @@
 
 ## How to use ? </br>
 - **Install discord.py (pip install discord.py)**
-- **Change Discord TOKEN and ROLE_ID
+- **Change Discord TOKEN and ROLE_ID**
+- **Run index.py in Terminal / CMD (py index.py)**
 - **Make sure your bot role is above the member role**
 ![image img](/image.png)
 
