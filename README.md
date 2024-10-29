@@ -1,6 +1,6 @@
 # Verify Discord Bot
 
-> HOW TO USE : </br>
+## HOW TO USE : </br>
 ```
 1. pip install discord.py
 2. enter discord bot TOKEN and ROLE ID
