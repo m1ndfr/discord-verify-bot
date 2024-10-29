@@ -12,5 +12,5 @@
 - **Make sure your bot role is above the member role**
 ![image img](/image.png)
 - **Run index.py in Terminal / CMD (py index.py)**
-
-# DON'T FORGET TO STAR THIS REPOS :)
+---
+# DON'T FORGET TO STAR THIS REPOS <3
