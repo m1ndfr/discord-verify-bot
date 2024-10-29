@@ -1,7 +1,10 @@
 # Verify Discord Bot
 ---
 ## Features ; </br>
-- **Use embed**
+- **Using Embed System**
+- **Using Slash Command**
+- **Ephemeral Feedback Message**
+- **Interactive Verification Button**
 
 > Make sure your bot role is above the member role 
 ![image img](/image.png)
