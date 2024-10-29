@@ -11,7 +11,10 @@
 - **Change Discord TOKEN and ROLE_ID**
 - **Make sure your bot role is above the member role**
 ![image img](/image.png)
-- **Run index.py in Terminal / CMD (py index.py)**
+- **Run index.py in Terminal / CMD (py index.py)**</br>
+
+## Contact ;
+- **Any Error ? Contact me on discord (smth.oppenheimer)**
 ---
-# ANY ERROR ? CONTACT ME ON DISCORD (smth.oppenheimer) 
+
 # DON'T FORGET TO STAR THIS REPOS 💖
