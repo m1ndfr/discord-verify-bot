@@ -7,6 +7,8 @@
 - **Interactive Verification Button**</br>
 
 ## How to use ? </br>
+- **Install discord.py (pip install discord.py)**
+- **Change Discord TOKEN and ROLE_ID
 - **Make sure your bot role is above the member role**
 ![image img](/image.png)
 
