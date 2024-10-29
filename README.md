@@ -1,5 +1,4 @@
 # Verify Discord Bot
-
 ---
 ## Features ; </br>
 
