@@ -1,7 +1,5 @@
 # Verify Discord Bot
 
----
-
 > HOW TO USE : </br>
 ```
 1. pip install discord.py
