@@ -6,8 +6,8 @@
 - **Ephemeral Feedback Message**
 - **Interactive Verification Button**</br>
 
-## Description ;
-> Make sure your bot role is above the member role 
+## How to use ? </br>
+- **Make sure your bot role is above the member role **
 ![image img](/image.png)
 
 # DON'T FORGET TO STAR THIS REPOS :)
