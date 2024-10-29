@@ -13,4 +13,4 @@
 ![image img](/image.png)
 - **Run index.py in Terminal / CMD (py index.py)**
 ---
-# DON'T FORGET TO STAR THIS REPOS <3
+# DON'T FORGET TO STAR THIS REPOS 💖
